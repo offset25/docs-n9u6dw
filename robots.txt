@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://wiki-e8yryx.clawd.ceo/sitemap.xml
